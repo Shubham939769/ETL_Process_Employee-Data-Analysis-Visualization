@@ -20,7 +20,7 @@ NumPy → Numerical Computations
 Seaborn & Matplotlib → Data Visualization
 Jupyter Notebook / VS Code
 
-ransform (Data Cleaning & Feature Engineering)
+Transform (Data Cleaning & Feature Engineering)
 Handled missing values (Salary imputation)
 Standardized categorical columns (City, Department)
 Removed inconsistencies
